@@ -1,0 +1,23 @@
+{
+  "name": "slp-examples",
+  "version": "0.1.0",
+  "description": "",
+  "main": "getUtxosFromAddress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getUtxosFromAddress": "node getUtxosFromAddress",
+    "sendSlp": "node sendSlp",
+    "createSlp": "node createSlp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bitgo/utxo-lib": "^9.13.0",
+    "bip39": "^3.1.0",
+    "bn.js": "^5.2.1",
+    "chronik-client": "^0.8.4",
+    "ecash-coinselect": "^1.0.1",
+    "ecashaddrjs": "^1.5.2",
+    "slp-mdm": "^0.0.7"
+  }
+}
