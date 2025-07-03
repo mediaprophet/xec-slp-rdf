@@ -1,2 +1,0 @@
-# Emoticons as Currency
-
