@@ -1,23 +1,42 @@
 # International Structure for Web Civics Incorporation
 
 ## Overview
-The Web Civics ecosystem, centered around the Trust Factory (a Swiss cooperative in Geneva), adopts a governance structure inspired by the City of London to deliver humanitarian ICT and human rights infrastructure. This structure emphasizes stakeholder representation through guilds (akin to livery companies), localized input via ward councils, and layered decision-making to ensure equitable participation, fair compensation, and alignment with human rights principles, including freedom of thought and Sustainable Development Goals (SDGs). The structure is designed to scale globally while maintaining ethical integrity and operational adaptability.
+Web Civics was born in 2014 as an initiative that was intended to produce software and support community engagement for cooperative and collaborative information communications technology (ICT) works, on a civics basis, for the betterment of humanity and as to support and seek to improve protection of, human rights. Trust Factory was born in 2015 as a consequence of works on 'identity credentials', 'verifiable claims' and related complex & sensitive web-standards and knowledge banking related works.  These efforts are related to the underlying works that led to international 'digital identity' outcomes; although, not entirely as was intended.  The broad-ranging ecosystems designs are intended to be 'human centric', or in cases where the term may not be clear enough; as may otherwise be defined as a pursuit to support Humanitarian ICT.
+
+It has proven impossible to better advance these works in Australia, despite best efforts.  As such, efforts are now underway to look for the best juristiction to support the advancement of these very important works.  
+
+The Web Civics ecosystem, is thought best established by being centered around a/the 'Trust Factory'. It is speculated that this may be best established as a Swiss cooperative in Geneva, thereafter adopting a governance structure inspired by the Governance structure of the City of London, to deliver humanitarian ICT and human rights infrastructure online & inter-juristictionally. This structure traditionally emphasizes stakeholder representation through guilds and/or livery companies, localized input via ward councils, and layered decision-making to ensure equitable participation, fair compensation, and alignment with human rights principles, including freedom of thought and Sustainable Development Goals (SDGs). Whilst some modernisation is considered necessary, the intended purpose of the structure is intended to be designed to scale globally while maintaining ethical integrity and operational adaptability, with particular regard to the novel challenges brought about by 'digital transformation'.
+
+## Terms
+
+- **Guild(s):** an association of people for mutual aid or the pursuit of a common goal.
+- **Ward(s):** an administrative division. A guard with the responsibility to protect. 
+- **SDG(s):** The 2030 Agenda for Sustainable Development, adopted by all United Nations members in 2015, created 17 world Sustainable Development Goals. The aim of these global goals is "peace and prosperity for people and the planet" – while tackling climate change and working to preserve oceans and forests.
+- **Civics:** study and works by natural persons to support the rights and duties of citizenship.
+
 
 ## Core Principles
 
-- **Stakeholder Representation**: Stakeholder guilds (representing contributors, NGOs, regional entities, and communities) mirror the City of London’s livery companies, ensuring diverse input into governance.
+- **Human Centric**: The purpose of the 'body of people' (corpus) is to produce both ICT related outcomes and ICT enabled outcomes, to promote human dignity, rights and the means for persons to be best equipped to protect their human rights.
 
-- **Layered Governance**: Decision-making is distributed across a Governing Council, Advisory Senate, and operational boards, inspired by the City’s Court of Common Council and Court of Aldermen.
+- **Stakeholder Representation**: Stakeholder guilds (representing contributors, NGOs, regional entities, and communities) participate in the governance of the group entities that represent them, which in-turn is represented by the group entity to the broader community, ensuring diverse input into governance.
 
-- **Ceremonial and Strategic Leadership**: A Chief Representative Officer (CRO) provides vision and advocacy, akin to the Lord Mayor, while operational leadership is decentralized.
+- **Layered Governance**: Decision-making is distributed across a Governing Council, Advisory Senate, and operational boards, whereby modelling is to be inspired by the City’s Court of Common Council and Court of Aldermen.
+
+- **Ceremonial and Strategic Leadership**: A Chief Representative Officer (CRO) provides vision and advocacy, akin to the Lord Mayor, while operational leadership and advocacy for specialised fields is decentralized.
 
 - **Ward-Based Input**: Regional or project-based ward councils channel grassroots feedback, ensuring local relevance and inclusivity.
 
 - **Human Rights and Fairness**: All activities prioritize human rights (e.g., UDHR, ICCPR), freedom of thought via thoughtware infrastructure, and fair compensation tied to contributions to humanity, not perpetual royalties.
 
-- **Sustainability and SDGs**: Revenue is reinvested to advance digital transformation, civic engagement, and SDGs, with a focus on peace and humanitarian outcomes.
+- **Sustainability and SDGs**: Revenue is reinvested to advance digital transformation, engagement, and advancement of projects that promote delivery of SDGs, with a focus on peace and humanitarian outcomes.
 
 ## 1. Central Entity: Trust Factory (Swiss Cooperative)
+
+In-order to establish and foster development, administration and the means through which complex matters may be addressed, it is considered that a 'trust factory' is required.  The notion of a 'trust factory' is moreover about, the people. The employed concept of 'trust' relates to both,
+
+- Being able to characterise the nature of the agent, entity and/or thing.
+- Supporting the development of methodologies that provide reliable inferencing.
 
 ### Why a Swiss Cooperative?
 
@@ -28,11 +47,16 @@ The Web Civics ecosystem, centered around the Trust Factory (a Swiss cooperative
 - **Tax and Regulatory Benefits**: Cooperatives enjoy favorable tax treatment for non-profit activities, and Geneva’s infrastructure facilitates international operations.
 
 ### Incorporation Steps
+
 1. **Draft Articles of Association**:
-   - Purpose: Curate a global network of Web Civics entities to deliver humanitarian ICT, thoughtware for freedom of thought, and civic infrastructure aligned with human rights and SDGs.
-   - Membership: Open to individuals, NGOs, regional Web Civics entities, and communities committed to human rights principles (e.g., UDHR, ICCPR).
-   - Governance: One member, one vote; layered structure with a Governing Council, Advisory Senate, and stakeholder guilds; virtual/hybrid meetings for global accessibility.
-   - Human Rights Charter: Mandates advocacy for human rights, fair compensation, and exit from jurisdictions/partnerships violating ethical standards.
+
+   - **Purpose:** Curate a global network of Web Civics entities to deliver humanitarian ICT, thoughtware for freedom of thought, and civics infrastructure aligned with human rights and SDGs.
+
+   - **Membership:** Open to individuals, NGOs, regional Web Civics entities, and communities committed to human rights principles (e.g., UDHR, ICCPR).
+
+   - **Governance:** One member, one vote; layered structure with a Governing Council, Advisory Senate, and stakeholder guilds; virtual/hybrid meetings for global accessibility.
+
+   - **Human Rights Charter:** Mandates advocacy for human rights, fair compensation, and exit from jurisdictions/partnerships violating ethical standards.
 
 2. **Register with Commercial Register**: File with the Geneva Commercial Register (fees: CHF 600–1,000).
 
@@ -47,6 +71,7 @@ The Web Civics ecosystem, centered around the Trust Factory (a Swiss cooperative
 ## 2. Governance Structure (City of London Inspired)
 
 ### 2.1 Strategic Leadership: Chief Representative Officer (CRO)
+
 - **Role**: Acts as the public face of Trust Factory, advocating for human rights, digital transformation, and SDGs, similar to the Lord Mayor.
 
 - **Selection**: Elected annually by the Governing Council from senior leaders or external experts with human rights or ICT expertise.
