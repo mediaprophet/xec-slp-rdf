@@ -9,6 +9,8 @@ The Web Civics ecosystem, is thought best established by being centered around a
 
 ## Terms
 
+Note: Nomenclature is sought to be adjusted in future.  I amo not confident the best terms have been found yet, whilst, the general notion is hoped to be comprehensible in the meantime.
+
 - **Guild(s):** an association of people for mutual aid or the pursuit of a common goal.
 - **Ward(s):** an administrative division. A guard with the responsibility to protect. 
 - **SDG(s):** The 2030 Agenda for Sustainable Development, adopted by all United Nations members in 2015, created 17 world Sustainable Development Goals. The aim of these global goals is "peace and prosperity for people and the planet" – while tackling climate change and working to preserve oceans and forests.
