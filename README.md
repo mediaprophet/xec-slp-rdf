@@ -1,6 +1,8 @@
 # xec-slp-rdf
 Experimental work, looking at how to address the economic challenges associated with Humanitarian ICT work.
 
+WIP Demo: https://mediaprophet.github.io/semantic-tokens-xec/ 
+
 ## What's the Problem?
 The problem is that the economic architectures for doing useful work for the benefit of civil societies, human rights, purposes that are not merely commercial nor necessarily an area of interest of public entiteis (ie: government); is presently punitive.  Whilst the means to address these problem is non-trivial, and the amount of resources required to do so properly is also non-trivial; the notion that 'free workers' or 'free work' should magically solve the problem, is arguably a known lie.
 
